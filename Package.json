@@ -1,29 +1,5 @@
 {
-  "name": "event-ticketing-platform",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "14.0.0",
-    "react": "^18",
-    "react-dom": "^18",
-    "axios": "^1.6.0",
-    "date-fns": "^2.30.0",
-    "lucide-react": "^0.294.0",
-    "tailwindcss": "^3.3.0",
-    "@radix-ui/react-dialog": "^1.0.5",
-    "recharts": "^2.8.0"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.0.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.0.0",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0"
-  }
+  "name": "titan-tickets",
+  "description": "Titan Tickets - Premier event ticketing platform with M-Pesa integration",
+  "keywords": ["titan", "tickets", "mpesa", "events", "ticketing"]
 }
