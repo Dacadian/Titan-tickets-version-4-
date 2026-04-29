@@ -1,5 +1,17 @@
 {
   "name": "titan-tickets",
-  "description": "Titan Tickets - Premier event ticketing platform with M-Pesa integration",
-  "keywords": ["titan", "tickets", "mpesa", "events", "ticketing"]
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "axios": "latest"
+  }
 }
